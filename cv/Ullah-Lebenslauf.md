@@ -1,27 +1,24 @@
-# Senior Software Engineer | Cloud & DevOps
+# Senior Software Engineer | Solution Architect
 *Sheikh Md Neyamat Ullah*
 
-Paul-Duden-Str. 29, 65830 Kriftel
-sheikh.neyamat@gmail.com • +49 176 31798567
+⌂ Kriftel  ·  ✉ sheikh.neyamat@gmail.com  ·  ☎ +49 176 31798567  ·  github.com/NeyamatUllah
+Staatsangehörigkeit: Deutsch
 
 ---
 
 ## Zusammenfassung
 
-Senior Software Engineer mit über 15 Jahren Erfahrung in Full-Stack-Entwicklung, Cloud-Migration und Service Ownership — zuletzt als Senior Consultant bei Avanade in sicherheitskritischen Umgebungen. Fundierte Praxis in C#, ASP.NET Core, Azure und AWS; nachgewiesene Fähigkeit, komplexe Multi-Service-Ökosysteme in globalen Teams zu verantworten — von der Anforderungsanalyse bis zum Betrieb. Seit September 2025 gezielter Ausbau der DevOps-Kompetenz, aktuell im Abschluss eines DevOps & Cloud-Bootcamps (Ironhack, Juni 2026). Als EU-Bürger mit deutschem Pass europaweit sofort und uneingeschränkt verfügbar.
+Senior Software Engineer und Solution Architect mit über 15 Jahren Erfahrung in der End-to-End-Konzeption und Umsetzung komplexer Softwarelösungen — von der Anforderungsanalyse über das Lösungsdesign bis zum Betrieb. Als Service Owner bei Continental verantwortete ich ein Ökosystem von 13 integrierten Services, einschließlich Cloud-Architektur und Migration auf AWS im globalen F&E-Netzwerk. Zuletzt als Senior Consultant bei Avanade in sicherheitskritischen Umgebungen tätig (u. a. BKA/INPOL), mit Schwerpunkt auf Lösungsdesign, technischer Stakeholder-Kommunikation und Architekturentscheidungen. Fundierte Kenntnisse in Cloud-Architekturen (Azure, AWS) sowie agilen Methoden (SAFe, Scrum). In Deutschland sofort verfügbar.
 
 ---
 
 ## Technische Kenntnisse
 
+**Architektur & Methoden**
+Solution Design, OOD, SOLID, Design Patterns, Microservices, Stakeholder-Management, Scrum, SAFe, Agile
+
 **Cloud & Infrastruktur**
 Azure (AKS, Monitor, AD, Security Center), AWS (EC2, IAM, CloudWatch, Auto Scaling), Linux, Bash, Cloud Networking
-
-**Container & DevOps**
-Docker, Kubernetes, Helm, GitHub Actions, Azure DevOps, Terraform, Ansible, CI/CD
-
-**Monitoring & Security**
-Grafana, Prometheus, Loki, ELK Stack, CloudWatch, Azure Monitor, SonarQube, Trivy, Hadolint, Dive
 
 **Entwicklung**
 C#, Python, ASP.NET Core, ASP.NET MVC, Entity Framework, Web APIs, WPF, MVVM
@@ -29,8 +26,11 @@ C#, Python, ASP.NET Core, ASP.NET MVC, Entity Framework, Web APIs, WPF, MVVM
 **Datenbanken & KI**
 SQL Server, PostgreSQL, Redis, Azure AI, Claude AI, GitHub Copilot
 
-**Methoden**
-OOD, SOLID, Design Patterns, Microservices, Scrum, SAFe, DevOps, Agile
+**Container & DevOps**
+Docker, Kubernetes, Helm, GitHub Actions, Azure DevOps, Terraform, Ansible, CI/CD
+
+**Monitoring & Security**
+Grafana, Prometheus, Loki, ELK Stack, CloudWatch, Azure Monitor, SonarQube, Trivy, Hadolint, Dive
 
 ---
 
@@ -45,18 +45,33 @@ OOD, SOLID, Design Patterns, Microservices, Scrum, SAFe, DevOps, Agile
 
 ## Weiterbildung
 
+**Selbststudium & Karrierevorbereitung — DevOps & Cloud**
+*09/2025 – 02/2026*
+Gezielte Vorbereitung auf den Wechsel in den DevOps-Bereich.
+
 **DevOps Engineer und Cloud-Computing — Bootcamp**
 *Ironhack Germany GmbH | 16/03/2026 – 12/06/2026*
+
+---
+
+## Projekte
+
+**Restauranty — Microservices-Plattform auf Azure AKS**
+*Persönliches Projekt | github.com/NeyamatUllah/restauranty*
+
+- Architektur und Umsetzung einer Microservices-Plattform: 4 Services (Auth, Discounts, Items, React-Frontend) hinter NGINX Ingress auf **Azure AKS**
+- Vollständig automatisierte CI/CD-Pipeline via **GitHub Actions**: Build → Push nach ghcr.io → Helm-Deployment auf AKS
+- Monitoring-Stack mit **Prometheus** (15-s-Scrape-Intervall) und **Grafana** (auto-provisioned Dashboards) für HTTP-Rate, Fehlerrate und Service-Metriken
+- Infrastructure-as-Code mit **Helm Charts** und 20+ Kubernetes-Manifesten (inkl. NetworkPolicies, Ingress-Routing)
 
 ---
 
 ## Zertifikate
 
 - Microsoft Certified: Power Platform Solution Architect Expert
-- Microsoft Certified: Dynamics 365 Fundamentals (CRM)
-- Microsoft Spezialist für C# (2016) — erneuert als Foundational C# with Microsoft via freeCodeCamp × Microsoft (Februar 2026)
 - SAFe 6 Product Owner / Product Manager (POPM)
 - Professional Scrum Master I (PSM I)
+- Microsoft Spezialist für C# (2016) — erneuert als Foundational C# with Microsoft via freeCodeCamp and Microsoft (Februar 2026)
 
 ---
 
@@ -65,14 +80,12 @@ OOD, SOLID, Design Patterns, Microservices, Scrum, SAFe, DevOps, Agile
 **Senior Consultant** | Avanade Deutschland GmbH
 *Frankfurt am Main, Deutschland | 10/2022 – 08/2025*
 
-Verantwortlich für die technische Umsetzung von Kundenprojekten mit Schwerpunkt Data Engineering und Full-Stack-Entwicklung, einschließlich des INPOL-Projekts sowie agiler Softwareentwicklung in weiteren Kundenprojekten.
+Verantwortlich für Lösungsdesign und technische Umsetzung von Kundenprojekten — von der Anforderungsanalyse und Architekturentscheidung bis zur Implementierung, einschließlich des sicherheitskritischen INPOL-Projekts (BKA).
 
 Tätigkeiten:
 - Tätig als **Data Engineer** bei *INPOL* — einem sicherheitskritischen Polizeiinformationssystem unter dem **Bundeskriminalamt (BKA)** — Konzeption und Entwicklung von Datenlösungen und Pipelines mit **MSSQL Server**.
-- Full-Stack-Softwareentwicklung in Kundenprojekten mit **C# und ASP.NET**: Anforderungsanalyse, Stakeholder-Kommunikation, Lösungsdesign und Implementierung.
-- Gewählt als **People's Advocate Representative für die DACH-Region** — Leitung eines Netzwerks von **500+ Mitarbeitenden** in D, AT und CH.
-- Tätig als **Network Lead am Standort Kronberg**; Förderung von Community-Initiativen und bereichsübergreifender Zusammenarbeit.
-- Erweiterung der Zertifizierungen: **PSM I** und **SAFe POPM**.
+- **Lösungsdesign und Full-Stack-Entwicklung** in Kundenprojekten mit C# und ASP.NET: Anforderungsanalyse, Architekturentscheidungen, Stakeholder-Kommunikation und technische Implementierung.
+- Erweiterung der Zertifizierungen: **PSM I** und **SAFe POPM** zur Vertiefung agiler und prozessorientierter Kompetenzen.
 
 ---
 
@@ -98,7 +111,7 @@ Full-Stack-Entwicklung für Automotive-Systeme zur Produktänderungs-/Produktabk
 Tätigkeiten:
 - Alleiniger Entwickler für **3 gleichzeitig betriebene Automotive-Systeme** (PCN, PTN, CTT) — global bei **Continental** eingesetzt.
 - Full-Stack-Lösungen mit **C#, ASP.NET MVC, WPF, MVP und MVVM**.
-- Externer Experte bei **Continental** (1 Monat); Einsatz beim **DVZ Datenverarbeitungszentrum** für ein vertrauliches Budgetierungssystem (2 Monate).
+- Externer Experte bei **Continental** (1 Monat); Einsatz beim **Datenverarbeitungszentrum (DVZ)** für ein vertrauliches Budgetierungssystem (2 Monate).
 
 ---
 
