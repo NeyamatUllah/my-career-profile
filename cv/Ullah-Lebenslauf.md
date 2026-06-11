@@ -8,7 +8,7 @@ Staatsangehörigkeit: Deutsch
 
 ## Zusammenfassung
 
-Senior Software Engineer und Solution Architect mit über 15 Jahren Erfahrung in der End-to-End-Konzeption und Umsetzung komplexer Softwarelösungen — von der Anforderungsanalyse über das Lösungsdesign bis zum Betrieb. Als Service Owner bei Continental verantwortete ich ein Ökosystem von 13 integrierten Services, einschließlich Cloud-Architektur und Migration auf AWS im globalen F&E-Netzwerk. Zuletzt als Senior Consultant bei Avanade in sicherheitskritischen Umgebungen tätig (u. a. BKA/INPOL), mit Schwerpunkt auf Lösungsdesign, technischer Stakeholder-Kommunikation und Architekturentscheidungen. Fundierte Kenntnisse in Cloud-Architekturen (Azure, AWS) sowie agilen Methoden (SAFe, Scrum). In Deutschland sofort verfügbar.
+Senior Software Engineer und Solution Architect mit über 15 Jahren Erfahrung — von der Anforderungsanalyse über Architekturentscheidungen bis zum produktiven Betrieb. Als Service Owner bei Continental Verantwortung für 13 integrierte Services und Cloud-Migration auf AWS im globalen F&E-Netzwerk; zuletzt als Senior Consultant bei Avanade in sicherheitskritischen Umgebungen (BKA/INPOL). Aktuell Vertiefung in Cloud-Infrastruktur und DevOps — Ironhack-Bootcamp (06/2026) sowie Eigenentwicklungen auf Azure AKS. In Deutschland sofort verfügbar.
 
 ---
 
@@ -47,7 +47,7 @@ Grafana, Prometheus, Loki, ELK Stack, CloudWatch, Azure Monitor, SonarQube, Triv
 
 **Selbststudium & Karrierevorbereitung — DevOps & Cloud**
 *09/2025 – 02/2026*
-Gezielte Vorbereitung auf den Wechsel in den DevOps-Bereich.
+Aufbau praktischer Kenntnisse durch mehrere Eigenentwicklungen (u. a. Restauranty auf Azure AKS) sowie abgeschlossene AWS- und Azure-Trainings: Docker, Kubernetes, Helm, Grafana, Loki, Prometheus, Auto Scaling, Load Balancing, Cloud Networking.
 
 **DevOps Engineer und Cloud-Computing — Bootcamp**
 *Ironhack Germany GmbH | 16/03/2026 – 12/06/2026*
@@ -83,8 +83,8 @@ Gezielte Vorbereitung auf den Wechsel in den DevOps-Bereich.
 Verantwortlich für Lösungsdesign und technische Umsetzung von Kundenprojekten — von der Anforderungsanalyse und Architekturentscheidung bis zur Implementierung, einschließlich des sicherheitskritischen INPOL-Projekts (BKA).
 
 Tätigkeiten:
-- Tätig als **Data Engineer** bei *INPOL* — einem sicherheitskritischen Polizeiinformationssystem unter dem **Bundeskriminalamt (BKA)** — Konzeption und Entwicklung von Datenlösungen und Pipelines mit **MSSQL Server**.
-- **Lösungsdesign und Full-Stack-Entwicklung** in Kundenprojekten mit C# und ASP.NET: Anforderungsanalyse, Architekturentscheidungen, Stakeholder-Kommunikation und technische Implementierung.
+- Tätigkeit als **Data Engineer** bei *INPOL* — einem sicherheitskritischen Polizeiinformationssystem unter dem **Bundeskriminalamt (BKA)** — Konzeption und Entwicklung von Datenlösungen und Pipelines mit **MSSQL Server**.
+- Architekturverantwortung in weiteren Kundenprojekten: Entwurf und Implementierung von **ASP.NET Core**-Lösungen, Moderation von Architektur-Reviews mit Fach- und IT-Stakeholdern sowie Sicherstellung technischer Qualität über den gesamten Lieferzyklus.
 - Erweiterung der Zertifizierungen: **PSM I** und **SAFe POPM** zur Vertiefung agiler und prozessorientierter Kompetenzen.
 
 ---
@@ -92,12 +92,12 @@ Tätigkeiten:
 **Service Owner & Projektverwaltungs-Tool-Spezialist** | Continental Automotive → Vitesco Technologies GmbH
 *Regensburg & Frankfurt am Main, Deutschland | 07/2017 – 09/2022*
 
-Entwicklung und Betreuung des elektronischen Projekt-Reporting-Systems (ePSR) für globale F&E-Projekte: Full-Stack-Entwicklung, Cloud-Migration zu AWS sowie Prozessoptimierung und Kostenmanagement.
+Entwicklung und Betreuung des elektronischen Projekt-Reporting-Systems (ePSR) für globale F&E-Projekte: Architektur und Implementierung, Cloud-Migration zu AWS sowie Prozessoptimierung und Kostenmanagement.
 
 Tätigkeiten:
 - Eingestellt als **PM-Tool-Spezialist**, 2020 Beförderung zum **Service Owner** von *ePSR* — global im **F&E-Netzwerk von Continental** eingesetzt.
 - Verantwortung für ein Ökosystem von **13 integrierten Services**: Koordination aller Service-Owner und Stakeholder bei Änderungen, Releases und Incidents.
-- Full-Stack-Entwicklung und Weiterentwicklung von ePSR mit **C# und ASP.NET** — von der Anforderungsaufnahme bis zu Deployment und Incident-Management.
+- Architektur, Entwicklung und Weiterentwicklung von ePSR mit **C# und ASP.NET** — von der Anforderungsaufnahme bis zu Deployment und Incident-Management.
 - Migration des On-Premise-Systems in die **AWS Cloud**; laufende Verantwortung für Cloud-Management und Kostenoptimierung.
 - Führung eines global verteilten **Support-Teams von 3 Kollegen**: Prozessdefinition, Release-Planung und Aufwandsschätzung.
 
@@ -106,11 +106,11 @@ Tätigkeiten:
 **Software-Ingenieur** | XWS Cross Wide Solutions GmbH
 *Regensburg, Deutschland | 08/2014 – 06/2017*
 
-Full-Stack-Entwicklung für Automotive-Systeme zur Produktänderungs-/Produktabkündigungsbenachrichtigung (PCN/PTN) und Komponentenverfolgung (CTT).
+Entwicklung und Betrieb von Automotive-Systemen zur Produktänderungs-/Produktabkündigungsbenachrichtigung (PCN/PTN) und Komponentenverfolgung (CTT).
 
 Tätigkeiten:
-- Alleiniger Entwickler für **3 gleichzeitig betriebene Automotive-Systeme** (PCN, PTN, CTT) — global bei **Continental** eingesetzt.
-- Full-Stack-Lösungen mit **C#, ASP.NET MVC, WPF, MVP und MVVM**.
+- Alleinverantwortlich für **3 gleichzeitig betriebene Automotive-Systeme** (PCN, PTN, CTT) — global bei **Continental** eingesetzt.
+- Lösungen mit **C#, ASP.NET MVC, WPF** nach MVP- und MVVM-Muster.
 - Externer Experte bei **Continental** (1 Monat); Einsatz beim **Datenverarbeitungszentrum (DVZ)** für ein vertrauliches Budgetierungssystem (2 Monate).
 
 ---
@@ -118,22 +118,22 @@ Tätigkeiten:
 **Software-Ingenieur** | Airconso Management GmbH
 *Frankfurt am Main, Deutschland | 06/2013 – 04/2014*
 
-Full-Stack-Entwicklung für das Airline-Buchungssystem AIR IBE; verantwortlich für Datenbankarchitektur, Systemoptimierung und Remote-Teamkoordination.
+Entwicklung und technische Verantwortung für das Airline-Buchungssystem AIR IBE: Datenbankarchitektur, Systemoptimierung und Koordination des Remote-Teams.
 
 Tätigkeiten:
-- Übernahme und Stabilisierung von *AIR IBE* — ca. **400 Nutzende**; Neugestaltung des End-to-End-Buchungsprozesses.
+- Übernahme und Stabilisierung von *AIR IBE* — ca. **400 Nutzende**; Neugestaltung des gesamten Buchungsprozesses.
 - Integration von **GDS-Plattformen** (Amadeus, Apollo) inkl. Zertifizierungsprozessen.
-- Alleiniger Entwickler vor Ort in Frankfurt, Remote-Zusammenarbeit mit PM in Istanbul.
+- Einziger Entwickler am Standort Frankfurt, Remote-Zusammenarbeit mit PM in Istanbul.
 
 ---
 
 **Software-Ingenieur** | Simplexhub Limited
 *Dhaka, Bangladesch | 02/2012 – 02/2013*
 
-End-to-End-Entwicklung des APEX-Fondsverwaltungssystems für einen australischen Kunden mit Standorten in Australien und den VAE.
+Alleinverantwortliche Entwicklung des APEX-Fondsverwaltungssystems für einen australischen Kunden mit Standorten in Australien und den VAE.
 
 Tätigkeiten:
-- Alleiniger Entwickler für *APEX*; umfangreiche F&E zur Implementierung von Orchard CMS mit **C# und ASP.NET MVC**.
+- Umfangreiche F&E zur Implementierung von Orchard CMS mit **C# und ASP.NET MVC**.
 - Mentoring und Unterstützung von **2 Junior-Entwicklern**.
 
 ---
